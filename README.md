@@ -10,7 +10,7 @@ DevOps Engineer | AWS, Kubernetes, Terraform, CI/CD
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
 
 ## 🔹 Featured Projects
-- [Restaurant Ratings Platform]([link](https://github.com/YGreengo/restauratings)) – Full-stack deployment on AWS EKS with CI/CD  
-- [Job Finder App]([link](https://github.com/YGreengo/jobfinder-app)) – Containerized 3-tier app with GitHub Actions CI  
+- [Restaurant Ratings Platform](https://github.com/YGreengo/restauratings) – Full-stack deployment on AWS EKS with CI/CD  
+- [Job Finder App](https://github.com/YGreengo/jobfinder-app) – Containerized 3-tier app with GitHub Actions CI  
 
 Portfolio: [yarden.dev](https://d3hmfus4mwihlm.cloudfront.net/)
